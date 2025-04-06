@@ -296,4 +296,4 @@ current_year = datetime.datetime.now().year
 # st.markdown(f"© {current_year} Saad Naiem. All rights reserved.")
 
 # Option B: With Link to GitHub (replace 'Saadnaiem' with your actual GitHub username)
-st.markdown(f"Developed by [Saad Naiem](https://github.com/Saadnaiem) © {current_year}")
+st.markdown(f"Developed by [Saad Naiem Ali](https://github.com/Saadnaiem) © {current_year}")
